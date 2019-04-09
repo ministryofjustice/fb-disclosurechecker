@@ -1,0 +1,11 @@
+{
+  "_id": "page.conditional-exit-broken",
+  "_type": "page.exit",
+  "heading": "Caution conditional exit - broken",
+  "show": {
+    "identifier": "caution_conditions_met",
+    "operator": "is",
+    "value": "no"
+  },
+  "url": "conditional-exit-broken"
+}

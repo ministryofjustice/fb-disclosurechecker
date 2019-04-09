@@ -1,0 +1,32 @@
+{
+  "_id": "page.caution-date",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.caution-date--radios.auto_name__2",
+      "_isa": "radios.yes-no",
+      "_type": "radios",
+      "legend": "Do you know the date you were cautioned?",
+      "name": "caution_date_known"
+    }
+  ],
+  "enableSteps": true,
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "cautioned"
+  },
+  "steps": [
+    "page.caution-date--2",
+    "page.age",
+    "page.type",
+    "page.exit-with-date",
+    "page.simple-exit-date-unknown",
+    "page.conditions-end",
+    "page.conditions-met",
+    "page.conditional-exit-broken",
+    "page.conditional-exit-date-known",
+    "page.conditional-exit-date-unknown"
+  ],
+  "url": "caution"
+}
