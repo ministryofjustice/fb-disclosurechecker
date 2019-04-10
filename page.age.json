@@ -1,0 +1,27 @@
+{
+  "_id": "page.age",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.age--radios.auto_name__2",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.age--radios.auto_name__2--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Under 18",
+          "value": "under_18"
+        },
+        {
+          "_id": "page.age--radios.auto_name__2--radio.auto_value__1--2",
+          "_type": "radio",
+          "label": "18 or over",
+          "value": "over_18"
+        }
+      ],
+      "legend": "How old were you when you got cautioned?",
+      "name": "caution_age"
+    }
+  ],
+  "url": "age"
+}

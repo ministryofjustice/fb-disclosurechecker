@@ -1,0 +1,20 @@
+{
+  "_id": "page.conditional-exit-date-known",
+  "_type": "page.exit",
+  "heading": "Conditional caution exit - date known",
+  "show": {
+    "all": [
+      {
+        "identifier": "caution_conditions_met",
+        "operator": "is",
+        "value": "yes"
+      },
+      {
+        "identifier": "caution_date_known",
+        "operator": "is",
+        "value": "yes"
+      }
+    ]
+  },
+  "url": "conditional-exit-date-known"
+}

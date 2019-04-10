@@ -1,0 +1,14 @@
+{
+  "_id": "page.conditions-met",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.conditions-met--radios.auto_name__2",
+      "_isa": "radios.yes-no",
+      "_type": "radios",
+      "legend": "Did you stick to the conditions of the caution?",
+      "name": "caution_conditions_met"
+    }
+  ],
+  "url": "conditions-met"
+}

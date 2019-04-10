@@ -1,0 +1,12 @@
+{
+  "_id": "page.start",
+  "_type": "page.start",
+  "body": "Use this service to check if you need to tell people about offences on your criminal record.\r\n\r\nCriminal records include:\r\n\r\ncautions given by the police\r\nconvictions given at court\r\nYou do not need to tell anyone about an expired ('spent') caution or conviction unless an exception applies.\r\n\r\nWho can use this service\r\n\r\nThis service is for people in England and Wales.\r\n\r\nIt will tell you if you legally have to disclose a caution or conviction when applying for:\r\n\r\na job\r\na place at college or university\r\ninsurance\r\nIf you have more than one caution or conviction, you’ll need to work out the expiry date of each one separately.",
+  "heading": "Check if you need to disclose your criminal record",
+  "lede": "This is your start page first paragraph. You can only have one paragraph here.",
+  "steps": [
+    "page.conviction-or-caution",
+    "page.caution-date"
+  ],
+  "url": "/"
+}
