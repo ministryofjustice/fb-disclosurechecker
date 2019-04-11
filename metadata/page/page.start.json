@@ -6,8 +6,7 @@
   "lede": "This is your start page first paragraph. You can only have one paragraph here.",
   "steps": [
     "page.conviction-or-caution",
-    "page.caution-date",
-    "page.confirmation"
+    "page.caution-date"
   ],
   "url": "/"
 }
