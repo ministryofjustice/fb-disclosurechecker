@@ -1,0 +1,29 @@
+{
+  "_id": "page.type",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.type--radios.auto_name__2",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.type--radios.auto_name__2--radio.auto_value__1",
+          "_type": "radio",
+          "hint": "You did not have to agree to any conditions",
+          "label": "Simple caution",
+          "value": "simple"
+        },
+        {
+          "_id": "page.type--radios.auto_name__2--radio.auto_value__1--2",
+          "_type": "radio",
+          "hint": "You agreed to certain conditions",
+          "label": "Conditional caution",
+          "value": "conditional"
+        }
+      ],
+      "legend": "Which type of caution were you given?",
+      "name": "caution_type"
+    }
+  ],
+  "url": "type"
+}
