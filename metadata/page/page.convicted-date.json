@@ -35,7 +35,8 @@
     "page.military",
     "page.rehabilitation",
     "page.motoring",
-    "page.conviction-end-date"
+    "page.conviction-end-date",
+    "page.mylastexit"
   ],
   "url": "convicted-date"
 }

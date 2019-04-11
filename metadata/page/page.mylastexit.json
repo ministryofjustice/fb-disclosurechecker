@@ -1,0 +1,6 @@
+{
+  "_id": "page.mylastexit",
+  "_isa": "page.conditional-exit-date-known",
+  "_type": "page.exit",
+  "url": "mylastexit"
+}

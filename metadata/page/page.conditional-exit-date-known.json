@@ -9,7 +9,7 @@
       "html": "If you need to change any information, or if you have another caution or conviction you’d like to check, [use the service again](/)."
     }
   ],
-  "heading": "Your caution expired on 27 February 2019",
+  "heading": "Your {disposal_type, select, cautioned{caution} convicted{conviction} other{NOT SET}} expired on 27 February 2019",
   "isConfirmation": true,
   "show": {
     "identifier": "caution_date_known",

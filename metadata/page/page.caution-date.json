@@ -12,7 +12,7 @@
   ],
   "enableSteps": true,
   "show": {
-    "identifier": "auto_name__1",
+    "identifier": "disposal_type",
     "operator": "is",
     "value": "cautioned"
   },

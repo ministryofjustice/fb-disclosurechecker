@@ -22,7 +22,7 @@
         }
       ],
       "legend": "Were you cautioned or convicted?",
-      "name": "auto_name__1"
+      "name": "disposal_type"
     }
   ],
   "url": "conviction-or-caution"
