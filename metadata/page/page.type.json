@@ -25,5 +25,15 @@
       "name": "caution_type"
     }
   ],
+  "enableSteps": true,
+  "showSteps": {
+    "identifier": "caution_type",
+    "operator": "is",
+    "value": "simple"
+  },
+  "steps": [
+    "page.exit-with-date",
+    "page.simple-exit-date-unknown"
+  ],
   "url": "type"
 }

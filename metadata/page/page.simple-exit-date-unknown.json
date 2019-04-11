@@ -2,19 +2,6 @@
   "_id": "page.simple-exit-date-unknown",
   "_type": "page.exit",
   "heading": "Simple exit - date unknown",
-  "show": {
-    "all": [
-      {
-        "identifier": "caution_date_known",
-        "operator": "is",
-        "value": "no"
-      },
-      {
-        "identifier": "caution_type",
-        "operator": "is",
-        "value": "simple"
-      }
-    ]
-  },
+  "isConfirmation": true,
   "url": "simple-exit-date-unknown"
 }

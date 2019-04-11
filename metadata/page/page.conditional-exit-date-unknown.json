@@ -2,19 +2,6 @@
   "_id": "page.conditional-exit-date-unknown",
   "_type": "page.exit",
   "heading": "Caution conditional exit - date not  known",
-  "show": {
-    "all": [
-      {
-        "identifier": "caution_conditions_met",
-        "operator": "is",
-        "value": "yes"
-      },
-      {
-        "identifier": "caution_date_known",
-        "operator": "is",
-        "value": "no"
-      }
-    ]
-  },
+  "isConfirmation": true,
   "url": "conditional-exit-date-unknown"
 }

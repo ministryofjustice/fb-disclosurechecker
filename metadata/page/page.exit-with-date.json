@@ -2,19 +2,11 @@
   "_id": "page.exit-with-date",
   "_type": "page.exit",
   "heading": "Simple exit with date",
+  "isConfirmation": true,
   "show": {
-    "all": [
-      {
-        "identifier": "caution_date_known",
-        "operator": "is",
-        "value": "yes"
-      },
-      {
-        "identifier": "caution_type",
-        "operator": "is",
-        "value": "simple"
-      }
-    ]
+    "identifier": "caution_date_known",
+    "operator": "is",
+    "value": "yes"
   },
   "url": "simple-exit-with-date"
 }
