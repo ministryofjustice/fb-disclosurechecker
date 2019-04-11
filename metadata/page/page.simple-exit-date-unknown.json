@@ -12,19 +12,5 @@
   "heading": "Your caution expired on the day it was given to you",
   "isConfirmation": true,
   "lede": "You do not need to tell anyone about this caution unless an [exception applies](https://www.gov.uk/exoffenders-and-employment?#when-employers-still-need-to-know-about-your-conviction).",
-  "show": {
-    "all": [
-      {
-        "identifier": "caution_date_known",
-        "operator": "is",
-        "value": "no"
-      },
-      {
-        "identifier": "caution_type",
-        "operator": "is",
-        "value": "simple"
-      }
-    ]
-  },
   "url": "simple-exit-date-unknown"
 }
