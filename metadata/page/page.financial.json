@@ -1,0 +1,32 @@
+{
+  "_id": "page.financial",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.financial--radios.auto_name__9",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.financial--radios.auto_name__9--radio.auto_value__5",
+          "_type": "radio",
+          "label": "A fine",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.financial--radios.auto_name__9--radio.auto_value__5--2",
+          "_type": "radio",
+          "label": "Compensation to a victim",
+          "value": "auto_value__5"
+        }
+      ],
+      "legend": "What were you ordered to pay?",
+      "name": "auto_name__9"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__5",
+    "operator": "is",
+    "value": "financial"
+  },
+  "url": "financial"
+}

@@ -1,0 +1,104 @@
+{
+  "_id": "page.community",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.community--radios.auto_name__7",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.community--radios.auto_name__7--radio.auto_value__5",
+          "_type": "radio",
+          "hint": "You were ordered not to drink for a certain period of time",
+          "label": "Alcohol abstinence",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.community--radios.auto_name__7--radio.auto_value__5--2",
+          "_type": "radio",
+          "hint": "You were given treatment to help you stop drinking",
+          "label": "Alcohol treatment",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.community--radios.auto_name__7--radio.auto_value__5--3",
+          "_type": "radio",
+          "hint": "You were helped to change any dangerous or unwanted behaviour",
+          "label": "Behavioural change programme",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.community--radios.auto_name__7--radio.auto_value__5--4",
+          "_type": "radio",
+          "hint": "You were ordered to stay indoors at certain times",
+          "label": "Curfew",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.community--radios.auto_name__7--radio.auto_value__5--5",
+          "_type": "radio",
+          "hint": "You were given treatment to help you stop taking drugs",
+          "label": "Drug rehabilitation",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.community--radios.auto_name__7--radio.auto_value__5--6",
+          "_type": "radio",
+          "hint": "You were ordered to stay away from a certain place",
+          "label": "Exclusion requirement",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.community--radios.auto_name__7--radio.auto_value__5--7",
+          "_type": "radio",
+          "hint": "You were ordered not to travel to any other country",
+          "label": "Foreign travel prohibition",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.community--radios.auto_name__7--radio.auto_value__5--8",
+          "_type": "radio",
+          "hint": "You were banned from doing something, such as using the internet or going to football matches",
+          "label": "Prohibition",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.community--radios.auto_name__7--radio.auto_value__5--9",
+          "_type": "radio",
+          "hint": "You were referred to community volunteers and the youth offending team (YOT)",
+          "label": "Referral order",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.community--radios.auto_name__7--radio.auto_value__5--10",
+          "_type": "radio",
+          "hint": "You were given activities to help with your rehabilitation",
+          "label": "Rehabilitation activity requirement (RAR)",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.community--radios.auto_name__7--radio.auto_value__5--11",
+          "_type": "radio",
+          "hint": "You were ordered to live somewhere for a certain length of time",
+          "label": "Residence requirement",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.community--radios.auto_name__7--radio.auto_value__5--12",
+          "_type": "radio",
+          "hint": "You were ordered to do community work without being paid",
+          "label": "Unpaid work",
+          "value": "auto_value__5"
+        }
+      ],
+      "legend": "What was your community order?",
+      "name": "auto_name__7"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__5",
+    "operator": "is",
+    "value": "community"
+  },
+  "url": "community"
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "page.custodial",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.custodial--radios.auto_name__6",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.custodial--radios.auto_name__6--radio.auto_value__13",
+          "_type": "radio",
+          "label": "Detention and training order (DTO)",
+          "value": "auto_value__13"
+        },
+        {
+          "_id": "page.custodial--radios.auto_name__6--radio.auto_value__14",
+          "_type": "radio",
+          "label": "Prison sentence",
+          "value": "auto_value__14"
+        },
+        {
+          "_id": "page.custodial--radios.auto_name__6--radio.auto_value__15",
+          "_type": "radio",
+          "label": "Suspended prison sentence",
+          "value": "auto_value__15"
+        }
+      ],
+      "legend": "What was your custodial sentence?",
+      "name": "auto_name__6"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__5",
+    "operator": "is",
+    "value": "custodial"
+  },
+  "url": "custodial"
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "page.conviction-age",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.conviction-age--radios.auto_name__4",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.conviction-age--radios.auto_name__4--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Under 18",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.conviction-age--radios.auto_name__4--radio.auto_value__4",
+          "_type": "radio",
+          "label": "18 or over",
+          "value": "auto_value__4"
+        }
+      ],
+      "legend": "How old were you when you got convicted?",
+      "name": "auto_name__4"
+    }
+  ],
+  "url": "conviction-age"
+}
