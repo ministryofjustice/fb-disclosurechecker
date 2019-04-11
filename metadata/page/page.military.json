@@ -1,0 +1,38 @@
+{
+  "_id": "page.military",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.military--radios.auto_name__10",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.military--radios.auto_name__10--radio.auto_value__5",
+          "_type": "radio",
+          "label": "Military disposal",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.military--radios.auto_name__10--radio.auto_value__5--2",
+          "_type": "radio",
+          "label": "Removal from Her Majesty's services",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.military--radios.auto_name__10--radio.auto_value__5--3",
+          "_type": "radio",
+          "label": "Service detention",
+          "value": "auto_value__5"
+        }
+      ],
+      "legend": "What was your military conviction?",
+      "name": "auto_name__10"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__5",
+    "operator": "is",
+    "value": "auto_value__10"
+  },
+  "url": "military"
+}

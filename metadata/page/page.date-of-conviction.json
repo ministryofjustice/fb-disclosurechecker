@@ -1,0 +1,18 @@
+{
+  "_id": "page.date-of-conviction",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.date-of-conviction--date.auto_name__3",
+      "_type": "date",
+      "label": "When did you get convicted?",
+      "name": "auto_name__3"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__2",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
+  "url": "date-of-conviction"
+}

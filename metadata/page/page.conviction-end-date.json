@@ -1,0 +1,18 @@
+{
+  "_id": "page.conviction-end-date",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.conviction-end-date--date.auto_name__13",
+      "_type": "date",
+      "label": "What did the conviction end?",
+      "name": "auto_name__13"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__2",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
+  "url": "conviction-end-date"
+}

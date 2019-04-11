@@ -21,7 +21,7 @@
           "value": "conditional"
         }
       ],
-      "legend": "Which type of caution were you given?",
+      "legend": "What type of caution were you given?",
       "name": "caution_type"
     }
   ],

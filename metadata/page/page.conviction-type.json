@@ -1,0 +1,94 @@
+{
+  "_id": "page.conviction-type",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.conviction-type--radios.auto_name__5",
+      "_type": "radios",
+      "items": [
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.conviction-type--radios.auto_name__5--radio.auto_value__5",
+          "_type": "radio",
+          "hint": "For example, curfew or unpaid work",
+          "label": "Community",
+          "value": "auto_value__5"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.conviction-type--radios.auto_name__5--radio.auto_value__6",
+          "_type": "radio",
+          "hint": "For example, a prison sentence, suspended sentence or detention",
+          "label": "Custodial",
+          "value": "auto_value__6"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.conviction-type--radios.auto_name__5--radio.auto_value__7",
+          "_type": "radio",
+          "hint": "For example, a conditional discharge order or bind over",
+          "label": "Discharge",
+          "value": "auto_value__7"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.conviction-type--radios.auto_name__5--radio.auto_value__8",
+          "_type": "radio",
+          "hint": "For example, paying a fine or compensation",
+          "label": "Financial",
+          "value": "auto_value__8"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.conviction-type--radios.auto_name__5--radio.auto_value__9",
+          "_type": "radio",
+          "hint": "For example, mental health treatment",
+          "label": "Hospital",
+          "value": "auto_value__9"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.conviction-type--radios.auto_name__5--radio.auto_value__10",
+          "_type": "radio",
+          "hint": "For example, removal from Her Majesty's services",
+          "label": "Military",
+          "value": "auto_value__10"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.conviction-type--radios.auto_name__5--radio.auto_value__11",
+          "_type": "radio",
+          "hint": "For example, penalty points or a driving ban",
+          "label": "Motoring",
+          "value": "auto_value__11"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.conviction-type--radios.auto_name__5--radio.auto_value__12",
+          "_type": "radio",
+          "label": "Rehabilitation or prevention",
+          "value": "auto_value__12"
+        }
+      ],
+      "legend": "What type of conviction were you given?",
+      "name": "auto_name__5"
+    }
+  ],
+  "url": "conviction-type"
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "page.motoring",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.motoring--2--radios.auto_name__11",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.motoring--2--radios.auto_name__11--radio.auto_value__5",
+          "_type": "radio",
+          "label": "Disqualification",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.motoring--2--radios.auto_name__11--radio.auto_value__5--2",
+          "_type": "radio",
+          "label": "Endorsement",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.motoring--2--radios.auto_name__11--radio.auto_value__5--3",
+          "_type": "radio",
+          "label": "Penalty points",
+          "value": "auto_value__5"
+        }
+      ],
+      "legend": "What was your motoring conviction?",
+      "name": "auto_name__11"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__5",
+    "operator": "is",
+    "value": "auto_value__11"
+  },
+  "url": "motoring"
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "page.discharge",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.discharge--radios.auto_name__8",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.discharge--radios.auto_name__8--radio.auto_value__5",
+          "_type": "radio",
+          "hint": "You were found guilty of a crime but did not get sentenced",
+          "label": "Absolute discharge",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.discharge--radios.auto_name__8--radio.auto_value__5--2",
+          "_type": "radio",
+          "hint": "Your sentence was postponed as long as you stuck to certain conditions",
+          "label": "Bind over",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.discharge--radios.auto_name__8--radio.auto_value__5--3",
+          "_type": "radio",
+          "hint": "You were not sentenced, as long as you didn't commit another crime",
+          "label": "Conditional discharge order",
+          "value": "auto_value__5"
+        }
+      ],
+      "legend": "What discharge were you given?",
+      "name": "auto_name__8"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__5",
+    "operator": "is",
+    "value": "auto_value__7"
+  },
+  "url": "discharge"
+}

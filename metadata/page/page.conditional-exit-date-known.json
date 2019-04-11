@@ -1,7 +1,15 @@
 {
   "_id": "page.conditional-exit-date-known",
   "_type": "page.exit",
-  "heading": "Conditional caution exit - date known",
+  "body": "The expiry date of your caution is based on:\r\n\r\n* the information you’ve provided \r\n* the current law on when cautions and convictions expire\r\n\r\nThis table shows the information you provided, which was used to work out the expiry date. If you entered any incorrect information, the expiry date will be incorrect.\r\n\r\n | | |\r\n|---|---|\r\n| Criminal record type | **Caution**|\r\n| Type of Caution | **Conditional** |\r\n| Age at time of caution | **Under 18** |\r\n| Date caution given | **17 December 2017**|\r\n| Conditions ended | **27 February 2019** |\r\n| Conditions stuck to | **Yes** |\r\n\r\n___",
+  "components": [
+    {
+      "_id": "page.conditional-exit-date-known--content",
+      "_type": "content",
+      "html": "If you need to change any information, or if you have another caution or conviction you’d like to check, [use the service again](/)."
+    }
+  ],
+  "heading": "Your caution expired on 27 February 2019",
   "show": {
     "all": [
       {

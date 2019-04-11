@@ -1,7 +1,8 @@
 {
   "_id": "page.conditional-exit-broken",
   "_type": "page.exit",
-  "heading": "Caution conditional exit - broken",
+  "body": "You've said that you broke the conditions of your caution. This usually leads to further action being taken by the police, such as prosecution for the original offence.\r\n\r\nBecause we don't know what further action was taken, we cannot tell you when your caution expires.\r\n\r\n**If you were convicted**\r\n\r\nIf you were convicted after breaking the conditions of your caution, you can [use the service again](/) and select conviction instead of caution.",
+  "heading": "Sorry, we cannot tell you when your caution expires",
   "show": {
     "identifier": "caution_conditions_met",
     "operator": "is",

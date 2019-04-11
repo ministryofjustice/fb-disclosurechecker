@@ -1,7 +1,16 @@
 {
   "_id": "page.conditional-exit-date-unknown",
   "_type": "page.exit",
-  "heading": "Caution conditional exit - date not  known",
+  "body": "**How this date has been worked out**\r\n\r\nThe expiry date of your caution is based on:\r\n\r\n* the information you’ve provided \r\n* the current law on when cautions and convictions expire\r\n\r\nThis table shows the information you provided, which was used to work out the expiry date. If you entered any incorrect information, the expiry date will be incorrect.\r\n\r\n | | |\r\n|---|---|\r\n| Criminal record type | **Caution**|\r\n| Type of Caution | **Conditional** |\r\n| Age at time of caution | **Under 18** |\r\n| Date caution given | **Not known**|\r\n| Conditions stuck to | **Yes** |\r\n___",
+  "components": [
+    {
+      "_id": "page.conditional-exit-date-unknown--content",
+      "_type": "content",
+      "html": "If you need to change any information, or if you have another caution or conviction you’d like to check, [use the service again](/)."
+    }
+  ],
+  "heading": "Your caution expired on the day conditions ended",
+  "lede": "You do not need to tell anyone about this caution unless an [exception applies](https://www.gov.uk/exoffenders-and-employment?#when-employers-still-need-to-know-about-your-conviction).",
   "show": {
     "all": [
       {
