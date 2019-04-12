@@ -37,7 +37,7 @@
     "page.rehabilitation",
     "page.motoring",
     "page.conviction-end-date",
-    "page.mylastexit"
+    "page.conviction-ended-date-known"
   ],
   "url": "convicted-date"
 }

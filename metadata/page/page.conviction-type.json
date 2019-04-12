@@ -82,11 +82,12 @@
           "$option": true,
           "_id": "page.conviction-type--radios.auto_name__5--radio.auto_value__12",
           "_type": "radio",
+          "hint": "For example, an attendance centre order or supervision order",
           "label": "Rehabilitation or prevention",
           "value": "rehabilitation"
         }
       ],
-      "legend": "What type of conviction were you given?",
+      "legend": "What type of conviction did you get?",
       "name": "auto_name__5"
     }
   ],
