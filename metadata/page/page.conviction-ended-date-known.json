@@ -9,9 +9,9 @@
       "html": "If you need to change any information, or if you have another caution or conviction you’d like to check, [use the service again](/).\r\n\r\n**[Print this page](/)**"
     }
   ],
-  "heading": "Your conviction expired on 17 March 2019",
+  "heading": "Your conviction will expire on 17 September 2019",
   "isConfirmation": true,
-  "lede": "You do not need to tell anyone about this conviction unless an [exception applies](https://www.gov.uk/exoffenders-and-employment?#when-employers-still-need-to-know-about-your-conviction).",
+  "lede": "After this date you will not need to tell anyone about the conviction unless an [exception applies](https://www.gov.uk/exoffenders-and-employment?#when-employers-still-need-to-know-about-your-conviction).",
   "show": {
     "identifier": "auto_name__2",
     "operator": "is",
