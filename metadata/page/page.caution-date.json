@@ -6,7 +6,7 @@
       "_id": "page.caution-date--radios.auto_name__2",
       "_isa": "radios.yes-no",
       "_type": "radios",
-      "legend": "Do you know the date you were cautioned?",
+      "legend": "Do you know the date you got cautioned?",
       "name": "caution_date_known"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "Use this service to check if you need to tell people about offences on your criminal record.\r\n\r\nCriminal records include:\r\n\r\n* cautions given by the police\r\n* convictions given at court",
+  "body": "Criminal records include:\r\n\r\n* cautions given by the police\r\n* convictions given at court",
   "components": [
     {
       "_id": "page.start--inset",
@@ -11,7 +11,7 @@
     {
       "_id": "page.start--content",
       "_type": "content",
-      "html": "**Who can use this service**\r\n\r\nThis service is for people in England and Wales.\r\n\r\nIt will tell you if you legally have to disclose a caution or conviction when applying for:\r\n\r\n* a job\r\n* a place at college or university\r\n* insurance\r\n\r\nIf you have more than one caution or conviction, you’ll need to work out the expiry date of each one separately."
+      "html": "**Who can use this service**\r\n\r\nThis service is for people in England and Wales.\r\n\r\nIt will tell you if you legally need to disclose a caution or conviction when applying for things such as jobs, university placements or insurance.\r\n\r\nIf you have more than one caution or conviction, you’ll need to work out the expiry date of each one separately."
     }
   ],
   "heading": "Check if you need to disclose your criminal record",
