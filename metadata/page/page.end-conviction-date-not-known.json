@@ -10,7 +10,7 @@
     }
   ],
   "heading": "Your conviction expires 6 months after the day it was given to you",
-  "lede": "After it expires you will not need to tell anyone about the conviction unless an [exception applies](https://www.gov.uk/exoffenders-and-employment?#when-employers-still-need-to-know-about-your-conviction).",
+  "lede": "As soon as the conviction expires you will not need to tell anyone about it unless an [exception applies](https://www.gov.uk/exoffenders-and-employment?#when-employers-still-need-to-know-about-your-conviction).",
   "show": {
     "identifier": "auto_name__2",
     "operator": "is",
