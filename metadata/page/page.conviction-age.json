@@ -5,6 +5,7 @@
     {
       "_id": "page.conviction-age--radios.auto_name__4",
       "_type": "radios",
+      "hint": "This is your age when the conviction was given, not when you committed the offence or got arrested",
       "items": [
         {
           "_id": "page.conviction-age--radios.auto_name__4--radio.auto_value__3",

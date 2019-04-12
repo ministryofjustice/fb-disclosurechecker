@@ -5,7 +5,7 @@
     {
       "_id": "page.conditions-end--date.auto_name__2",
       "_type": "date",
-      "hint": "This is the date you and the police agreed the conditions would end",
+      "hint": "This is the date you and the police agreed the conditions would end\r\n\r\nFor example, 23 9 2018",
       "label": "When did the conditions end?",
       "name": "caution_conditions_end"
     }

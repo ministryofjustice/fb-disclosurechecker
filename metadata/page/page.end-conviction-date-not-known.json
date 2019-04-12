@@ -1,7 +1,7 @@
 {
   "_id": "page.end-conviction-date-not-known",
   "_type": "page.confirmation",
-  "body": "**Example**\r\n\r\nIf you'd been convicted on 17 September 2018, it would have expired on 17 March 2019.\r\n\r\n**About the expiry date**\r\n\r\nThe expiry date of your conviction is based on:\r\n\r\n* the information you’ve provided \r\n* the current law on when cautions and convictions expire\r\n\r\nThis table shows the information you provided, which was used to work out the expiry date. If you entered any incorrect information, the expiry date will be incorrect.\r\n\r\n | | |\r\n|---|---|\r\n| Criminal record type | **Conviction**|\r\n| Type of conviction | **Community** |\r\n| Name of conviction | **Curfew** |\r\n| Age at time of caution | **Under 18** |\r\n| Date conviction given | **Not known**|\r\n\r\n___",
+  "body": "**Example**\r\n\r\nIf your sentence ended on 17 September 2018, it would expire on 17 March 2019.\r\n\r\nYou would not need to disclose the conviction after 17 March 2019.\r\n\r\n**About the expiry date**\r\n\r\nThe expiry date of your conviction is based on:\r\n\r\n* the information you’ve provided \r\n* the current law on when cautions and convictions expire\r\n\r\nThis table shows the information you provided, which was used to work out the expiry date. If you entered any incorrect information, the expiry date will be incorrect.\r\n\r\n | | |\r\n|---|---|\r\n| Criminal record type | **Conviction**|\r\n| Type of conviction | **Community** |\r\n| Name of conviction | **Curfew** |\r\n| Age at time of caution | **Under 18** |\r\n| Date conviction given | **Not known**|\r\n\r\n___",
   "components": [
     {
       "_id": "page.end-conviction-date-not-known--content",
@@ -9,7 +9,7 @@
       "html": "If you need to change any information, or if you have another caution or conviction you’d like to check, [use the service again](/).\r\n\r\n**[Print this page](/)**"
     }
   ],
-  "heading": "Your conviction will expire 6 months after it was given to you",
+  "heading": "Your conviction will expire 6 months after the sentence ends",
   "lede": "As soon as the conviction expires you will not need to tell anyone about it unless an [exception applies](https://www.gov.uk/exoffenders-and-employment?#when-employers-still-need-to-know-about-your-conviction).",
   "show": {
     "identifier": "auto_name__2",
