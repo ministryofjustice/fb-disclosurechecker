@@ -13,7 +13,7 @@
           "_id": "page.conviction-type--radios.auto_name__5--radio.auto_value__5",
           "_type": "radio",
           "hint": "For example, curfew or unpaid work",
-          "label": "Community",
+          "label": "Community order",
           "value": "community"
         },
         {
@@ -23,7 +23,7 @@
           "_id": "page.conviction-type--radios.auto_name__5--radio.auto_value__6",
           "_type": "radio",
           "hint": "For example, a prison sentence, suspended sentence or detention",
-          "label": "Custodial",
+          "label": "Custodial sentence",
           "value": "custodial"
         },
         {
@@ -43,7 +43,7 @@
           "_id": "page.conviction-type--radios.auto_name__5--radio.auto_value__8",
           "_type": "radio",
           "hint": "For example, paying a fine or compensation",
-          "label": "Financial",
+          "label": "Financial penalty",
           "value": "financial"
         },
         {
@@ -53,7 +53,7 @@
           "_id": "page.conviction-type--radios.auto_name__5--radio.auto_value__9",
           "_type": "radio",
           "hint": "For example, mental health treatment",
-          "label": "Hospital",
+          "label": "Hospital order",
           "value": "hospital"
         },
         {
