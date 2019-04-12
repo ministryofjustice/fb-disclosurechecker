@@ -10,18 +10,14 @@
     }
   ],
   "show": {
-    "all": [
-      {
-        "identifier": "auto_name__2",
-        "operator": "is",
-        "value": "auto_value__1"
-      },
-      {
-        "identifier": "auto_name__5",
-        "operator": "is",
-        "value": "hospital"
-      }
-    ]
+    "0": {
+      "identifier": "auto_name__2",
+      "operator": "is",
+      "value": "auto_value__1"
+    },
+    "identifier": "auto_name__2",
+    "operator": "is",
+    "value": "auto_value__1"
   },
   "url": "conviction-end-date"
 }

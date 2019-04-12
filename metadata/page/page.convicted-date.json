@@ -37,7 +37,8 @@
     "page.rehabilitation",
     "page.motoring",
     "page.conviction-end-date",
-    "page.conviction-ended-date-known"
+    "page.conviction-ended-date-known",
+    "page.end-conviction-date-not-known"
   ],
   "url": "convicted-date"
 }
