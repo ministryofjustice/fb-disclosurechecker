@@ -1,7 +1,7 @@
 {
   "_id": "page.conditional-exit-date-known",
   "_type": "page.exit",
-  "body": "**How this date has been worked out**\r\n\r\nThe expiry date of your caution is based on:\r\n\r\n* the information you’ve provided \r\n* the current law on when cautions and convictions expire\r\n\r\nThis table shows the information you provided, which was used to work out the expiry date. If you entered any incorrect information, the expiry date will be incorrect.\r\n\r\n | | |\r\n|---|---|\r\n| Criminal record type | **Caution**|\r\n| Type of Caution | **Conditional** |\r\n| Age at time of caution | **Under 18** |\r\n| Date caution given | **17 December 2018**|\r\n| Conditions ended | **17 March 2019** |\r\n| Conditions stuck to | **Yes** |\r\n\r\n___",
+  "body": "**How this date has been worked out**\r\n\r\nThe expiry date of your caution is based on:\r\n\r\n* what you told us about your caution\r\n* the current law on when cautions expire\r\n\r\nThis table shows you what you told us. If any of this information is wrong, the expiry date we've given you might also be wrong.\r\n\r\n | | |\r\n|---|---|\r\n| Criminal record type | **Caution**|\r\n| Type of Caution | **Conditional** |\r\n| Age at time of caution | **Under 18** |\r\n| Date caution given | **17 December 2018**|\r\n| Conditions ended | **17 March 2019** |\r\n| Conditions stuck to | **Yes** |\r\n\r\n___",
   "components": [
     {
       "_id": "page.conditional-exit-date-known--content",

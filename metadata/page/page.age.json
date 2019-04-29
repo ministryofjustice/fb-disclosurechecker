@@ -5,7 +5,7 @@
     {
       "_id": "page.age--radios.auto_name__2",
       "_type": "radios",
-      "hint": "This is the age you were given the caution, not when you committed the offence",
+      "hint": "This is your age when you were given the caution, not when you committed the offence",
       "items": [
         {
           "_id": "page.age--radios.auto_name__2--radio.auto_value__1",

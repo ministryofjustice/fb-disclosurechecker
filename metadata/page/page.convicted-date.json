@@ -5,6 +5,7 @@
     {
       "_id": "page.convicted-date--radios.auto_name__2",
       "_type": "radios",
+      "hint": "This is the date the conviction was given in court, not the date you committed the offence or got arrested",
       "items": [
         {
           "_id": "page.convicted-date--radios.auto_name__2--radio.auto_value__1",

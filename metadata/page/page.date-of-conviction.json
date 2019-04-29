@@ -5,7 +5,7 @@
     {
       "_id": "page.date-of-conviction--date.auto_name__3",
       "_type": "date",
-      "hint": "This is the date the conviction was given in court, not the date you committed the offence or got arrested\r\n\r\nFor example, 23 9 2018",
+      "hint": "For example, 23 9 2018",
       "label": "When did you get convicted?",
       "name": "auto_name__3"
     }

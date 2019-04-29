@@ -1,21 +1,31 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "Criminal records include:\r\n\r\n* cautions given by the police\r\n* convictions given at court",
   "components": [
     {
-      "_id": "page.start--inset",
-      "_type": "inset",
-      "html": "You do not need to tell anyone about an expired ('spent') caution or conviction unless an [exception applies](https://www.gov.uk/exoffenders-and-employment?#when-employers-still-need-to-know-about-your-conviction)."
-    },
-    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.start--content",
       "_type": "content",
-      "html": "**Who can use this service**\r\n\r\nThis service is for people in England and Wales.\r\n\r\nIt will tell you if you legally need to disclose a caution or conviction when applying for things such as jobs, university placements or insurance.\r\n\r\nIf you have more than one caution or conviction, you’ll need to work out the expiry date of each one separately."
+      "html": "You might be asked about your criminal record when applying for:\r\n\r\n* jobs\r\n* college or university\r\n* insurance\r\n\r\nMost cautions and convictions expire (become 'spent') after a certain length of time. You don't usually need to tell anyone about them after they become spent."
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.start--inset--2",
+      "_type": "inset",
+      "html": "An employer might need to know about spent cautions or convictions when you apply for [certain types of job](https://www.gov.uk/exoffenders-and-employment?#when-employers-still-need-to-know-about-your-conviction)."
+    },
+    {
+      "_id": "page.start--content--2",
+      "_type": "content",
+      "html": "This service is for people in England and Wales."
     }
   ],
-  "heading": "Check if you need to disclose your criminal record",
-  "lede": "Use this service to check if you need to tell people about offences on your criminal record.",
+  "heading": "Check if you need to tell people about your criminal record",
+  "lede": "Use this service to check if you need to tell anyone about a caution or conviction on your criminal record.",
   "steps": [
     "page.conviction-or-caution",
     "page.caution-date",
